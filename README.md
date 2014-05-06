@@ -1,7 +1,7 @@
-jackpotcoinhash
-===============
+Jackpot Hash Method
+===================
 
-JackpotCoin Hash Python
+Jackpot Hash Method Python
 
 It can be used with Stratum-mining 
 
